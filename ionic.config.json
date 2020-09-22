@@ -1,0 +1,7 @@
+{
+  "name": "Elixir",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
