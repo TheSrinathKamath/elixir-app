@@ -1,5 +1,5 @@
 # Elixir
-All in one survivor guide for Foreign students
+_All in one survivor guide for Foreign students_
 
 Elixir is a PWA built in Angular.
 The App integrates the following features
